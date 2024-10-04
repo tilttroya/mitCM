@@ -247,7 +247,7 @@ published 3 weeks ago by wesleytodd <wes@wesleytodd.com>
 $ npm ls --depth=0
 ```
 ```
-express@5.0.0 C:\Users\narvik\express
+express@5.0.0 C:\Users\sp25\express
 ├── accepts@2.0.0
 ├── after@0.8.2
 ├── body-parser@2.0.1
